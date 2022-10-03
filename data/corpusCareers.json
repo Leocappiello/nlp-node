@@ -1,0 +1,44 @@
+{
+    "careers": {
+        "sistemas":{
+            "horario":{
+
+            },
+            "perfil": {
+
+            },
+            "telDpto": 0
+
+        },
+        "quimica":{
+            "horario":{
+
+            },
+            "perfil": {
+
+            },
+            "telDpto": 0
+
+        },
+        "mecanica":{
+            "horario":{
+
+            },
+            "perfil": {
+
+            },
+            "telDpto": 0
+
+        },
+        "electronica":{
+            "horario":{
+
+            },
+            "perfil": {
+
+            },
+            "telDpto": 0
+
+        }
+    }
+}
