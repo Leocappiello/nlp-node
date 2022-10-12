@@ -1,0 +1,54 @@
+{
+    "utterances": [
+        {
+            "entity": [
+                "mecanica",
+                "sistemas",
+                "electronica",
+                "quimica"
+            ],
+            "theme": "horario",
+            "questions": [
+                "Cual es el horario de ",
+                "Que dias cursa",
+                "A que hora cursa"
+            ],
+            "answers": "la carrera xx cursa los dias xxx de xx a xx hs"
+        },
+        {
+            "entity": [
+                "mecanica",
+                "sistemas",
+                "electronica",
+                "quimica"
+            ],
+            "theme": "perfil",
+            "questions": [
+                "Cual es el perfil de un ingeniero ",
+                "Cual es el perfil de un ing ",
+                "A que se dedica un ingeniero ",
+                "A que se dedica un ing ",
+                "Que es ingeniero ",
+                "Que es ing ",
+                "Que hace un ingeniero ",
+                "Que hace un ing"
+            ],
+            "answers": "el perfil de un ingeniero xx es xx"
+        },
+        {
+            "entity": [
+                "mecanica",
+                "sistemas",
+                "electronica",
+                "quimica"
+            ],
+            "theme": "contacto",
+            "questions": [
+                "Como puedo comunicarme al departamento?",
+                "Cual es el numero del deparamento?",
+                "Como puedo hablar con alguien de?"
+            ],
+            "answers": "el telefono del departamento de xx es xx"
+        }
+    ]
+}
